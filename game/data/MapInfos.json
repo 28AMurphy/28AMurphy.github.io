@@ -10,5 +10,7 @@ null,
 {"id":8,"expanded":false,"name":"bpassdungeon","order":7,"parentId":6,"scrollX":864,"scrollY":1030.5,"quick":false},
 {"id":9,"expanded":false,"name":"fpass","order":9,"parentId":7,"scrollX":819,"scrollY":493.5,"quick":false},
 {"id":10,"expanded":false,"name":"diamondminecart","order":10,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":11,"expanded":false,"name":"atown","order":11,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+{"id":11,"expanded":true,"name":"atownsetup","order":11,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":12,"expanded":true,"name":"atownactual","order":12,"parentId":0,"scrollX":811,"scrollY":449.5,"quick":false},
+{"id":13,"expanded":false,"name":"jail","order":13,"parentId":12,"scrollX":0,"scrollY":0,"quick":false}
 ]

@@ -36,9 +36,11 @@ nav ul {
 article {
     border: 7px solid;
     margin: 10px auto;
-    width: 70%;
+    width: 50%;
     padding-left: 10px;
     padding-top: 10px;
+    display: inline-flex;
+    max-width: 50%;
 }
 
 article p {
@@ -48,4 +50,42 @@ article p {
 article img {
     max-width: 30%;
     margin-top: 10px;
+}
+
+div {
+    border: 7px solid;
+    margin: 10px auto;
+    width: 46%;
+    padding-left: 10px;
+    padding-top: 10px;
+    display: inline-flex;
+    max-width: 46%;
+    float: right;
+}
+
+div img {
+    max-width: 30%;
+    margin-top: 10px;
+}
+
+div p {
+    margin: 10px;
+}
+
+article h1 {
+    font-size: 30px;
+}
+
+div h1 {
+    font-size: 30px;
+}
+
+footer {
+    border: 7px solid;
+    margin-top: 330px;
+}
+
+footer p {
+    margin: 10px;
+    text-align: center;
 }
